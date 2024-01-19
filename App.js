@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import {Alert, Modal, StyleSheet, Text, Pressable, View} from 'react-native';
+import { Modal, StyleSheet, Text, Pressable, View} from 'react-native';
 import { useState } from 'react';
 
 
